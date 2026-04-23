@@ -2,3 +2,4 @@ archivo del principio
 hola desde github
 2-mensaje desde la terminal de git
 2 mensaje 2do intento desde la termial git
+segundo mensaje desde github hacia la terminal de git
