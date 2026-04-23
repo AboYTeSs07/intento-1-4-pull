@@ -1,2 +1,3 @@
 archivo del principio
 hola desde github
+2-mensaje desde la terminal de git
